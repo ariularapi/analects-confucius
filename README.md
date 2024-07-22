@@ -6,7 +6,7 @@ The **Analects**, also known as the **_Sayings of Confucius_**, is an ancient Ch
 
 ## Section
 
-1. [Section 1](SECTION-1.md)
-1. [Section 2](SECTION-2.md)
-1. [Section 3](SECTION-3.md)
-1. [Section 4](SECTION-4.md)
+1. [Section 1](SECTION-1.MD)
+1. [Section 2](SECTION-2.MD)
+1. [Section 3](SECTION-3.MD)
+1. [Section 4](SECTION-4.MD)
